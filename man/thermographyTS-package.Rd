@@ -14,7 +14,7 @@ More about what it does (maybe more than one line)
 \tabular{ll}{
 Package: \tab thermographyTS\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 0.1.1\cr
 Date: \tab 2014-11-18\cr
 License: \tab What license is it under?\cr
 }
