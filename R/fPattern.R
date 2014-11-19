@@ -1,3 +1,7 @@
+#' bla
+#' 
+#' @export fPattern
+
 fPattern <- function(x){
   Avg_Temp_Image <- cellStats(x, stat='mean')
   
